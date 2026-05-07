@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'apps.accounts',
     'apps.jobs',
+    'apps.applications',
     'django.contrib.postgres',
 
 ]
